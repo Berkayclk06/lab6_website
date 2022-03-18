@@ -604,6 +604,12 @@ hr {
   color: #222831;
 }
 
+fieldset {
+  border: none;
+  margin: 0;
+  padding: 0;
+}
+
 /********************** RESPONSIVE PAGE STYLES - MEDIA QUERIES *****************/
 
 @media only screen and (max-width: 1000px) {
